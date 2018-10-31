@@ -8,4 +8,5 @@ public interface TypeDao {
     List<Type> sel();
     Type sel1();
     int insert();
+    int delet();
 }
