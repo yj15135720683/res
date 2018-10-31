@@ -9,4 +9,5 @@ public interface TypeDao {
     Type sel1();
     int insert();
     int ins();
+    int upda();
 }
