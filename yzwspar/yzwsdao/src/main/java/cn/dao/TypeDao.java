@@ -10,4 +10,8 @@ public interface TypeDao {
     int insert();
     int ins();
     int upda();
+
+    String select();
+    String Select(int a);
+    String updaall();
 }
